@@ -44,3 +44,7 @@ main {
  .bird-media image, .bird-media audio{
     display: block;
  }
+
+ img {
+     border-radius: 15px;
+ }
